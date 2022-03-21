@@ -10,8 +10,8 @@
 <br>
 <div align>
   <a href="https://github.com/RodrigoD324">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RodrigoD324&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoD324&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoD324&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoD324&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ## Tecnologias que eu utilizo:
@@ -23,6 +23,6 @@
     <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   </div>
-
+ 
   ## Sobre:
    Tenho 18 anos, adoro tecnologia e tudo relacionado a área desde criança, trabalhar na área é um sonho no qual eu vou alcançar em breve!
