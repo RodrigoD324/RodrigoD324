@@ -24,5 +24,10 @@
     <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   </div>
  
+  ## Contatos e Redes Sociais:
+ [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-d-oliveira-18b19421a/)
+ [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rodrigo.silvadeoliveira.75)
+ 
   ## Sobre:
    Tenho 18 anos, adoro tecnologia e tudo relacionado a área desde criança, trabalhar na área é um sonho no qual eu vou alcançar em breve!
