@@ -25,4 +25,4 @@
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo_d._oliveira_/)
  
   ## Sobre:
-   Tenho 18 anos, adoro tecnologia e tudo relacionado a área desde criança, trabalhar na área é um sonho no qual eu vou alcançar em breve!
+   Tenho 18 anos, adoro tecnologia e tudo relacionado a área desde que eu comecei a realizar alguns cursos pela internet, a partir daí meu objetivo é trabalhar na área,  que acabou se tornando um sonho no qual eu vou alcançar em breve!
