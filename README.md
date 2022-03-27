@@ -26,5 +26,4 @@
     
   ## Sobre:
    Tenho 18 anos, adoro tecnologia e tudo relacionado a área desde que eu comecei a realizar alguns cursos pela internet, a partir daí meu objetivo é trabalhar na área,  que acabou se tornando um sonho no qual eu vou alcançar em breve!
-  
-  ![Snake animation](https://github.com/RodrigoD324/RodrigoD324/blob/output/github-contribution-grid-snake.svg)
+ 
