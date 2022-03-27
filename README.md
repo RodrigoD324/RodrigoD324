@@ -23,6 +23,8 @@
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-d-oliveira-18b19421a/)
  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rodrigo.silvadeoliveira.75)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo_d._oliveira_/)
- 
+    
   ## Sobre:
    Tenho 18 anos, adoro tecnologia e tudo relacionado a área desde que eu comecei a realizar alguns cursos pela internet, a partir daí meu objetivo é trabalhar na área,  que acabou se tornando um sonho no qual eu vou alcançar em breve!
+  
+  ![Snake animation](https://github.com/RodrigoD324/RodrigoD324/blob/output/github-contribution-grid-snake.svg)
