@@ -1,7 +1,7 @@
 ## Hey! Meu nome é Rodrigo! 👋
 
-- 🔭 Hoje eu busco oportunidades de estágio na área de tecnologia
-- 🌱 Atualmente estudo Análise e Desenvolvimento de Sistemas na FATEC
+- 🔭 Hoje e sempre eu busco aprimorar cada vez mais meus conhecimentos!
+- 🌱 Atualmente estudo Análise e Desenvolvimento de Sistemas na FATEC!
 <br>
 <div align>
   <a href="https://github.com/RodrigoD324">
