@@ -9,7 +9,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoD324&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ## Tecnologias que eu utilizo:
+  ## Tecnologias que eu utilizo/utilizei:
   <div style="display: inline_block">
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
