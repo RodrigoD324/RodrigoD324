@@ -21,7 +21,7 @@
 <p> My name is <b>Rodrigo</b>, I'm a PHP developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>São Paulo - Brasil</b>. </p>
 
 <p align="left">
-  - 🔭 I’m working as junior developer at Shibata Supermercados.
+  - 🔭 I've been working as junior developer at Shibata Supermercados for 1 year.
   <br>
   - 📚 I'm currently learning <b>Laravel framework and English</b>.
   <br>
