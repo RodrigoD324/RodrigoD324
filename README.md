@@ -18,7 +18,7 @@
 
 <!--###-->
 
-<p> My name is <b>Rodrigo</b>, I'm a PHP developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>São Paulo - Brasil</b>. </p>
+<p> My name is <b>Rodrigo</b>, I'm a PHP developer, from <b>São Paulo - Brasil <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /></b> </p>
 
 <p align="left">
   - 🔭 I've been working as junior developer at Shibata Supermercados for 1 year.
